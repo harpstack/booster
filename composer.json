@@ -1,0 +1,12 @@
+{
+    "name": "harpro/booster",
+    "description": "A project of general base for quickly starting new projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harper Zhang",
+            "email": "harper.zhang@hotmail.com"
+        }
+    ],
+    "require": {}
+}
